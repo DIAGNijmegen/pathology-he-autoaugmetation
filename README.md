@@ -1,6 +1,8 @@
 # [Automatic data augmentation to improve generalization of deep learning in H&E stained histopathology](https://www.sciencedirect.com/science/article/pii/S0010482524001021)
 
-Comparative analysis of 4 state-of-the-art automatic augmentation algorithms in H&amp;E stained histopathology.
+
+🚧 Repo under construction 🚧
+4 state-of-the-art automatic augmentation algorithms in H&E stained histopathology.
 
 
 If you find this work useful, cite as:
