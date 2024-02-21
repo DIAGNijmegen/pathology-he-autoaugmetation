@@ -4,7 +4,7 @@
 🚧 Repo documentation under construction 🚧
 
 
-This repo includes code for 4 state-of-the-art automatic augmentation algorithms adjusted to H&E stained histopathology. We provide training code with found augmentation policies, and transforms. The search code is a subtree of original repositories. 
+This repo includes code for 4 state-of-the-art automatic augmentation algorithms adjusted to H&E stained histopathology. We provide training code with found augmentation policies and transforms. The search code is a subtree of original repositories. 
 
 You might also find interesting our preliminary work [Tailoring automated data augmentation to H&E-stained histopathology](https://github.com/DIAGNijmegen/pathology-he-auto-augment).
 
