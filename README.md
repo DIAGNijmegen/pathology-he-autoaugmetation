@@ -9,6 +9,8 @@ This repo includes code for 4 state-of-the-art automatic augmentation algorithms
 You might also find interesting our preliminary work [Tailoring automated data augmentation to H&E-stained histopathology](https://github.com/DIAGNijmegen/pathology-he-auto-augment).
 
 
+
+
 If you find this work useful, cite as:
 
 ```
